@@ -1,0 +1,1 @@
+7z a -tzip something.zip -ir!y:\xxx\*.toml -ir!y:\xxx\*.go -ir!y:\xxx\*.html -ir!y:\xxx\*.js -ir!y:\xxx\*.css -ir!y:\xxx\*.mod
